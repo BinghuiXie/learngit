@@ -9,3 +9,5 @@ add a new line on the branch "master".
 create a new branch named "feature1" to test the problem when merging the branches.
 >>>>>>> feature1
 conflict fixed.
+add a new line in textbook.
+add a new lint in vim.
